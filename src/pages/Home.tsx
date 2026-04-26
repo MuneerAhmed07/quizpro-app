@@ -10,6 +10,8 @@ const subjects = [
   { id: 'fia', name: 'FIA', icon: BookOpenText, color: 'text-red-600', bg: 'bg-amber-50', description: 'FIA test preparation including MCQs, past papers, syllabus, and key topics like GK, English, IT, and current affairs.' },
   { id: 'fgei', name: 'FGEI', icon: BookOpenText, color: 'text-blue-600', bg: 'bg-amber-50', description: 'Preparation for FGEI teaching and non-teaching posts including past papers, MCQs, syllabus, pedagogy, subject knowledge, English, and general knowledge.' },
   { id: 'islamic', name: 'Islamic Study', icon: TreePalm, color: 'text-green-600', bg: 'bg-amber-50', description: 'Islamic Studies preparation with MCQs, past papers, important topics, and exam-focused content.' },
+  { id: 'mod', name: 'MOD', icon: BookOpenText, color: 'text-green-600', bg: 'bg-amber-50', description: 'MOD exam preparation with MCQs in GK, reasoning, English, and subject tests.' },
+  { id: 'ppsc', name: 'PPSC', icon: BookOpenText, color: 'text-red-600', bg: 'bg-yellow-50', description: 'PPSC preparation with MCQs in GK, current affairs, English, Pakistan Studies, and subject-based tests for government jobs.' },
 ];
 
 export default function Home() {

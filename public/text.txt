@@ -11,3 +11,15 @@ Past Paper Id: 03
 
 Islamic:
 MCQs : 01
+
+MOD Ministry of Defense:
+Past Paper id: 01
+
+PPSC:
+Islamic MCQs: 01
+
+Upload a Project when changing
+git add .
+git commit -m "update"
+git push origin main
+npm run deploy

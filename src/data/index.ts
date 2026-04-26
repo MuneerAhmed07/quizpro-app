@@ -2,9 +2,13 @@ import { computer } from "./computer/computer";
 import { Subject } from "../types";
 import { fia } from "./FIA/fia";
 import { islamic } from "./islamic/islamic";
+import { mod } from "./minstryofDefense/mod";
+import { ppsc } from "./ppsc/ppsc";
 
 export const subjects: Record<string, Subject> = {
   computer,
   fia,
   islamic,
+  mod,
+  ppsc,
 };
