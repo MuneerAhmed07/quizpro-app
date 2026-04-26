@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Inter", ui-sans-serif, system-ui, sans-serif;
+  
+  --color-bg: #F8FAFC;
+  --color-card-bg: #FFFFFF;
+  --color-text-main: #1E293B;
+  --color-text-sub: #64748B;
+  --color-accent: #3B82F6;
+  --color-accent-light: #DBEAFE;
+  --color-border: #E2E8F0;
+  --color-success: #10B981;
+  --color-error: #EF4444;
+  --color-ad-bg: #F1F5F9;
+}
+
+@layer base {
+  body {
+    @apply bg-bg text-text-main font-sans antialiased;
+  }
+}
+
+.bento-card {
+  @apply bg-card-bg border border-border rounded-2xl p-5 shadow-sm transition-all hover:shadow-md;
+}
+
+.adsense-placeholder {
+  @apply bg-ad-bg border border-dashed border-border rounded-2xl flex items-center justify-center text-text-sub text-[11px] uppercase tracking-widest text-center min-h-[100px] my-6;
+}
+
+.btn-bento {
+  @apply px-5 py-2.5 rounded-lg text-sm font-semibold transition-all cursor-pointer inline-flex items-center justify-center gap-2;
+}
+
+.btn-bento-primary {
+  @apply bg-accent text-white hover:bg-blue-600;
+}
+
+.btn-bento-outline {
+  @apply bg-transparent border border-border text-text-main hover:bg-slate-50;
+}
+
+.search-pill {
+  @apply bg-bg border border-border px-4 py-2 rounded-full text-sm text-text-sub outline-none focus:ring-2 focus:ring-accent/20 focus:border-accent transition-all;
+}
+
+.option {
+  @apply w-full p-5 border border-border rounded-xl text-sm transition-all text-left flex items-center justify-between cursor-pointer hover:bg-slate-100 active:scale-[0.99];
+}
+
+.option.selected {
+  @apply border-accent bg-accent-light text-accent font-bold ring-4 ring-accent/10;
+}
+
+.progress-container {
+  @apply h-2 bg-border rounded-full overflow-hidden;
+}
+
+.progress-bar {
+  @apply h-full bg-accent transition-all duration-500 ease-out shadow-[0_0_8px_rgba(59,130,246,0.4)];
+}

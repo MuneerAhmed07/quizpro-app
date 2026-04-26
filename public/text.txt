@@ -1,0 +1,13 @@
+Networking Id: 13
+Programming Id:01
+Operating System Id: 01
+Data Structure Id: 01
+Basic Software and Tool: 02
+
+
+FIA:
+MCQs : 02
+Past Paper Id: 03
+
+Islamic:
+MCQs : 01
