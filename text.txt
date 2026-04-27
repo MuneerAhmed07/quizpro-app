@@ -1,8 +1,10 @@
 Networking Id: 14
-Programming Id:04
+Programming Id:05
 Operating System Id: 09
 Data Structure Id: 01
 Basic Software and Tool: 03
+MySQL Id: 04
+Database Administration Id: 01
 
 
 FIA:
