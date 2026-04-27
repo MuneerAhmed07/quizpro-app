@@ -4,6 +4,9 @@ import { operatingSystem03 } from "./operatingSystem03";
 import { operatingSystem04 } from "./operatingSystem04";
 import { operatingSystem05 } from "./operatingSystem05";
 import { operatingSystem06 } from "./operatingSystem06";
+import { operatingSystem07 } from "./operatingSystem07";
+import { operatingSystem08 } from "./operatingSystem08";
+import { operatingSystem09 } from "./operatingSystem09";
 
 export const basicProgrammingQuiz = [
   basicOperatingSystem,
@@ -12,4 +15,7 @@ export const basicProgrammingQuiz = [
   operatingSystem04,
   operatingSystem05,
   operatingSystem06,
+  operatingSystem07,
+  operatingSystem08,
+  operatingSystem09,
 ];
