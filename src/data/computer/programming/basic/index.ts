@@ -2,6 +2,7 @@ import { basicProgramming } from "./basicProgramming";
 import { programming02 } from "./programming02";
 import { programming03 } from "./programming03";
 import { programming04 } from "./programming04";
+import { programming05 } from "./programming05";
 
 
 export const basicProgrammingQuiz = [
@@ -9,4 +10,5 @@ export const basicProgrammingQuiz = [
   programming02,
   programming03,
   programming04,
+  programming05,
 ];

@@ -1,5 +1,7 @@
 import { Subject } from "../../../src/types";
+import { allDatabaseAdministrationQuizes } from "./databaseAdministration";
 import { dataStructureQuizes } from "./dataStructure";
+import { allMySQLQuizes } from "./mysql";
 import { networkingQuizzes } from "./networking";
 import { operatingSystemQuizes } from "./operatingSystem";
 import { programmingQuizzes } from "./programming";
@@ -34,6 +36,16 @@ export const computer: Subject = {
       id: "softwareandtool",
       name: "Software And Tools Awareness",
       quizzes: basicSoftwareAndToolsQuizes,
+    },
+    {
+      id: "mysql",
+      name: "MySQL",
+      quizzes: allMySQLQuizes,
+    },
+    {
+      id: "databaseAdministration",
+      name: "Database Administration",
+      quizzes: allDatabaseAdministrationQuizes,
     }
   ]
 };
