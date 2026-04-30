@@ -6,23 +6,34 @@ Basic Software and Tool: 03
 MySQL Id: 04
 Database Administration Id: 01
 
-
+******************
 FIA:
 MCQs : 02
-Past Paper Id: 03
+Past Paper Id: 04
+Computer Question ID: 04
 
+
+******************
 Islamic:
 MCQs : 02
 
-Pak Study:
-MCQs ID : 05
 
+****************
+Pak Study:
+MCQs ID : 06
+
+
+******************
 MOD Ministry of Defense:
 Past Paper id: 01
 
+
+******************
 PPSC:
 Islamic MCQs: 01
 
+
+****************
 Upload a Project when changing
 git add .
 git commit -m "update"
