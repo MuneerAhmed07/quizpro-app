@@ -6,7 +6,7 @@ import { motion } from 'motion/react';
 const subjects = [
   { id: 'computer', name: 'Computer Science', icon: Monitor, color: 'text-blue-600', bg: 'bg-blue-50', description: 'Networking, Programming, Hardware and more.' },
   { id: 'math', name: 'Mathematics', icon: Calculator, color: 'text-emerald-600', bg: 'bg-emerald-50', description: 'Algebra, Geometry, and Calculus challenges.' },
-  { id: 'pakstudy', name: 'Pak Study', icon: Book, color: 'text-amber-600', bg: 'bg-amber-50', description: 'History, Geography, and Civic studies of Pakistan.' },
+  { id: 'pakstudy', name: 'Pak Study', icon: Book, color: 'text-red-600', bg: 'bg-yellow-50', description: 'History, Geography, and Civic studies of Pakistan.' },
   { id: 'fia', name: 'FIA', icon: BookOpenText, color: 'text-red-600', bg: 'bg-amber-50', description: 'FIA test preparation including MCQs, past papers, syllabus, and key topics like GK, English, IT, and current affairs.' },
   { id: 'fgei', name: 'FGEI', icon: BookOpenText, color: 'text-blue-600', bg: 'bg-amber-50', description: 'Preparation for FGEI teaching and non-teaching posts including past papers, MCQs, syllabus, pedagogy, subject knowledge, English, and general knowledge.' },
   { id: 'islamic', name: 'Islamic Study', icon: TreePalm, color: 'text-green-600', bg: 'bg-amber-50', description: 'Islamic Studies preparation with MCQs, past papers, important topics, and exam-focused content.' },

@@ -4,6 +4,7 @@ import { fia } from "./FIA/fia";
 import { islamic } from "./islamic/islamic";
 import { mod } from "./minstryofDefense/mod";
 import { ppsc } from "./ppsc/ppsc";
+import { pakstudy } from "./pakStudy/pakstudy";
 
 export const subjects: Record<string, Subject> = {
   computer,
@@ -11,4 +12,5 @@ export const subjects: Record<string, Subject> = {
   islamic,
   mod,
   ppsc,
+  pakstudy,
 };

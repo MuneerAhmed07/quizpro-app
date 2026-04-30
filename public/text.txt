@@ -12,7 +12,10 @@ MCQs : 02
 Past Paper Id: 03
 
 Islamic:
-MCQs : 01
+MCQs : 02
+
+Pak Study:
+MCQs ID : 05
 
 MOD Ministry of Defense:
 Past Paper id: 01
