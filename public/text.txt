@@ -9,7 +9,7 @@ Database Administration Id: 01
 ******************
 FIA:
 MCQs : 02
-Past Paper Id: 04
+Past Paper Id: 05
 Computer Question ID: 04
 
 
@@ -20,7 +20,7 @@ MCQs : 02
 
 ****************
 Pak Study:
-MCQs ID : 10
+MCQs ID : 14
 
 
 ******************
@@ -31,6 +31,10 @@ Past Paper id: 01
 ******************
 PPSC:
 Islamic MCQs: 01
+
+******************
+English:
+Preposition ID: 01
 
 
 ****************

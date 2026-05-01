@@ -8,6 +8,10 @@ import { mcqs07 } from "./mcqs07";
 import { mcqs08 } from "./mcqs08";
 import { mcqs09 } from "./mcqs09";
 import { mcqs10 } from "./mcqs10";
+import { mcqs11 } from "./mcqs11";
+import { mcqs12 } from "./mcqs12";
+import { mcqs13 } from "./mcqs13";
+import { mcqs14 } from "./mcqs14";
 
 export const allMcqsQuize = [
     mcqs01,
@@ -20,4 +24,8 @@ export const allMcqsQuize = [
     mcqs08,
     mcqs09,
     mcqs10,
+    mcqs11,
+    mcqs12,
+    mcqs13,
+    mcqs14,
 ];
