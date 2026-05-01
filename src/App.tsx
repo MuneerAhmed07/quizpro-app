@@ -7,8 +7,11 @@ import Topic from './pages/Topic';
 import Quiz from './pages/Quiz';
 import About, { Contact, Privacy, Terms } from './pages/About';
 
+import PasswordGate from './PasswordGate';
+
 function App() {
   return (
+    <PasswordGate>
     <Router basename="/quizpro-app/">
       <div className="flex flex-col min-h-screen">
 
@@ -43,6 +46,7 @@ function App() {
 
       </div>
     </Router>
+    </PasswordGate>
   );
 }
 
