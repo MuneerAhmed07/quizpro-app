@@ -15,7 +15,7 @@ Computer Question ID: 04
 
 ******************
 Islamic:
-MCQs : 02
+MCQs : 03
 
 
 ****************
@@ -25,7 +25,7 @@ MCQs ID : 14
 
 ******************
 MOD Ministry of Defense:
-Past Paper id: 01
+Past Paper id: 03
 
 
 ******************
