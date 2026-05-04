@@ -6,6 +6,7 @@ import { mod } from "./minstryofDefense/mod";
 import { ppsc } from "./ppsc/ppsc";
 import { pakstudy } from "./pakStudy/pakstudy";
 import { english } from "./english/english";
+import { pakistanhistory } from "./pakistanHistory/pakistanhistory";
 
 export const subjects: Record<string, Subject> = {
   computer,
@@ -15,4 +16,5 @@ export const subjects: Record<string, Subject> = {
   ppsc,
   pakstudy,
   english,
+  pakistanhistory,
 };

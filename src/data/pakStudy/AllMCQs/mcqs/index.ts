@@ -12,6 +12,7 @@ import { mcqs11 } from "./mcqs11";
 import { mcqs12 } from "./mcqs12";
 import { mcqs13 } from "./mcqs13";
 import { mcqs14 } from "./mcqs14";
+import { mcqs15 } from "./mcqs15";
 
 export const allMcqsQuize = [
     mcqs01,
@@ -28,4 +29,5 @@ export const allMcqsQuize = [
     mcqs12,
     mcqs13,
     mcqs14,
+    mcqs15,
 ];

@@ -13,6 +13,7 @@ const subjects = [
   { id: 'mod', name: 'MOD', icon: BookOpenText, color: 'text-green-600', bg: 'bg-amber-50', description: 'MOD exam preparation with MCQs in GK, reasoning, English, and subject tests.' },
   { id: 'ppsc', name: 'PPSC', icon: BookOpenText, color: 'text-red-600', bg: 'bg-yellow-50', description: 'PPSC preparation with MCQs in GK, current affairs, English, Pakistan Studies, and subject-based tests for government jobs.' },
   { id: 'english', name: 'English', icon: BookOpenText, color: 'text-red-600', bg: 'bg-yellow-50', description: 'Comprehensive English preparation covering grammar, vocabulary, sentence structure, and comprehension with MCQs for PPSC and other competitive exams.' },
+  { id: 'pakistanhistory', name: 'Pakistan History', icon: BookOpenText, color: 'text-red-600', bg: 'bg-yellow-50', description: 'Pakistan History MCQs covering key events and personalities for competitive exams.' },
 ];
 
 export default function Home() {

@@ -1,5 +1,6 @@
 import { Subject } from "../../../src/types";
 import { allPrepositionMCQs } from "./prepositions";
+import { allSynonymMCQs } from "./synonym";
 
 export const english: Subject = {
   id: "english",
@@ -10,6 +11,11 @@ export const english: Subject = {
       id: "prepositions",
       name: "All Preposition MCQs",
       quizzes: allPrepositionMCQs,
+    },
+    {
+      id: "synonym-antonym",
+      name: "Synonym And Antonym",
+      quizzes: allSynonymMCQs,
     }
     
   ]
