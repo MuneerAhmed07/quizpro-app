@@ -20,12 +20,12 @@ MCQs : 03
 
 ****************
 Pak Study:
-MCQs ID : 14
+MCQs ID : 15
 
 
 ******************
 MOD Ministry of Defense:
-Past Paper id: 03
+Past Paper id: 04
 
 
 ******************
@@ -35,6 +35,13 @@ Islamic MCQs: 01
 ******************
 English:
 Preposition ID: 01
+Synonym & Antonym ID: 02
+
+******************
+Pakistan History:
+Mountain MCQs ID: 01
+Rivers MCQs ID: 06
+
 
 
 ****************
