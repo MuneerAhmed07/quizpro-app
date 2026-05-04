@@ -2,7 +2,7 @@ import { Quiz } from "../../../../types";
 
 export const mcqs06: Quiz = {
   id: "06-mcqs-06",
-  title: "DAM MCQs 02",
+  title: "DAM of Pakistan MCQs 02",
   description: "Pakistan DAM MCQs",
   timeLimit: 900,
   questions: [

@@ -40,7 +40,8 @@ Synonym & Antonym ID: 02
 ******************
 Pakistan History:
 Mountain MCQs ID: 01
-Rivers MCQs ID: 06
+Rivers MCQs ID: 09
+Desert MCQs ID: 02
 
 
 

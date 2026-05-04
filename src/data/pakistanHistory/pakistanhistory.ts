@@ -1,4 +1,5 @@
 import { Subject } from "../../../src/types";
+import { allDesertsMCQs } from "./desert";
 import { allMountainRelatedMCQs } from "./moutain";
 import { allRiversMCQs } from "./rivers";
 
@@ -16,6 +17,11 @@ export const pakistanhistory: Subject = {
       id: "rivers",
       name: "Rivers & Lakes MCQs",
       quizzes: allRiversMCQs,
+    },
+    {
+      id: "deserts",
+      name: "Deserts of Pakistan",
+      quizzes: allDesertsMCQs,
     }
 ]
 };
