@@ -11,8 +11,8 @@ import PasswordGate from './PasswordGate';
 
 function App() {
   return (
-    <PasswordGate>
     <Router basename="/quizpro-app/">
+    <PasswordGate>
       <div className="flex flex-col min-h-screen">
 
         <Navbar />
@@ -45,8 +45,8 @@ function App() {
         <Footer />
 
       </div>
-    </Router>
     </PasswordGate>
+    </Router>
   );
 }
 
