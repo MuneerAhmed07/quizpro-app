@@ -40,8 +40,9 @@ Synonym & Antonym ID: 02
 ******************
 Pakistan History:
 Mountain MCQs ID: 01
-Rivers MCQs ID: 09
+Rivers MCQs ID: 14
 Desert MCQs ID: 02
+Provinces MCQs ID: 02
 
 
 
@@ -51,3 +52,6 @@ git add .
 git commit -m "update"
 git push origin main
 npm run deploy
+
+
+Now Give 20 MCQs About Beaches of Pakistan Which is mostly asked in PPSC, MOD, Compitative, PMS, FIA, FGEI etc
