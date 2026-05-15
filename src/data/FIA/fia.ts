@@ -1,6 +1,7 @@
 import { Subject } from "../../../src/types";
 import { allComputerMcqsQuizes } from "./computerQuestion";
 import { allMcqsQuizes } from "./mostexpected";
+import { allMostImportantQuize } from "./mostImportant";
 import { allPastPaperQuizes } from "./pastpaper";
 
 
@@ -24,5 +25,10 @@ export const fia: Subject = {
       name: "Computer MCQS",
       quizzes: allComputerMcqsQuizes,
     },
+    {
+      id: "mostimportant",
+      name: "FIA Most Important And Repeated MCQs",
+      quizzes: allMostImportantQuize,
+    }
   ]
 };

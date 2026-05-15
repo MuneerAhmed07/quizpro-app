@@ -11,6 +11,7 @@ FIA:
 MCQs : 02
 Past Paper Id: 05
 Computer Question ID: 04
+FIA Most Important MCQs ID: 02
 
 
 ******************
@@ -36,6 +37,8 @@ Islamic MCQs: 01
 English:
 Preposition ID: 01
 Synonym & Antonym ID: 02
+Idioms & Voice ID: 01
+Narrations ID: 01
 
 ******************
 Pakistan History:
@@ -44,6 +47,15 @@ Rivers MCQs ID: 14
 Desert MCQs ID: 02
 Provinces MCQs ID: 16
 
+
+*******************
+Math:
+Ratio and Proportion ID: 01,
+Percentage ID: 01,
+
+********************
+FGEI:
+Computer MCQS ID: 03
 
 
 ****************

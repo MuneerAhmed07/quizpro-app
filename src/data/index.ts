@@ -7,6 +7,8 @@ import { ppsc } from "./ppsc/ppsc";
 import { pakstudy } from "./pakStudy/pakstudy";
 import { english } from "./english/english";
 import { pakistanhistory } from "./pakistanHistory/pakistanhistory";
+import { math } from "./math/math";
+import { fgei } from "./FGEI/fgei";
 
 export const subjects: Record<string, Subject> = {
   computer,
@@ -17,4 +19,6 @@ export const subjects: Record<string, Subject> = {
   pakstudy,
   english,
   pakistanhistory,
+  math,
+  fgei,
 };
