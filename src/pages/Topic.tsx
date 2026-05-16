@@ -50,7 +50,7 @@ export default function Topic() {
           <ArrowLeft size={16} /> Back to Topics
         </Link>
 
-        <div className="bento-card mb-12 flex justify-between items-center bg-slate-900 text-white border-none">
+        <div className="bento-card mb-12 flex justify-between items-center bg-slate-900 text-black border-none">
           <div>
             <h1 className="text-2xl font-extrabold mb-2">{topic.name} Assessments</h1>
             <p className="text-slate-400 text-xs">

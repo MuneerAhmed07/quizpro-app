@@ -22,6 +22,7 @@ MCQs : 03
 ****************
 Pak Study:
 MCQs ID : 15
+Important MCQs ID: 06
 
 
 ******************
