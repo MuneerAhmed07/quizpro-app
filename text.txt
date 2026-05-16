@@ -9,9 +9,9 @@ Database Administration Id: 01
 ******************
 FIA:
 MCQs : 02
-Past Paper Id: 05
+Past Paper Id: 07
 Computer Question ID: 04
-FIA Most Important MCQs ID: 02
+FIA Most Important MCQs ID: 03
 
 
 ******************
