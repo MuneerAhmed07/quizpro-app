@@ -9,7 +9,9 @@ export default defineConfig(({ mode }) => {
   return {
     plugins: [react(), tailwindcss()],
 
-    base: '/quizpro-app/', // ✅ ADD THIS LINE
+    // Change this to './' or remove it entirely. 
+    // './' ensures assets are loaded relative to the index.html, which is perfect for HashRouter on GitHub Pages.
+    base: './', 
 
     define: {
       'process.env.GEMINI_API_KEY': JSON.stringify(env.GEMINI_API_KEY),

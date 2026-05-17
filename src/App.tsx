@@ -12,7 +12,7 @@ import PasswordGate from './PasswordGate';
 
 function App() {
   return (
-    <HashRouter basename="/quizpro-app/">
+    <HashRouter>
     <PasswordGate>
       <div className="flex flex-col min-h-screen">
 
