@@ -1,6 +1,6 @@
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { Navbar, Footer } from './components/Navigation';
-import { HashRouter } from 'react-router-dom';
+
 
 import Home from './pages/Home';
 import Subject from './pages/Subject';
@@ -12,7 +12,7 @@ import PasswordGate from './PasswordGate';
 
 function App() {
   return (
-    <HashRouter>
+    <Router basename="/quizpro-app/">
     <PasswordGate>
       <div className="flex flex-col min-h-screen">
 
@@ -47,7 +47,7 @@ function App() {
 
       </div>
     </PasswordGate>
-    </HashRouter>
+    </Router>
   );
 }
 
