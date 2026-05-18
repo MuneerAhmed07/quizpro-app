@@ -1,5 +1,6 @@
 import { Subject } from "../../../src/types";
 import { allComputerQuize } from "./computer";
+import { estPastPaperQuize } from "./SSTPastpaper";
 
 export const fgei: Subject = {
   id: "fgei",
@@ -11,6 +12,10 @@ export const fgei: Subject = {
       name: "Computer MCQs",
       quizzes: allComputerQuize,
     },
-    
+    {
+      id: "estPastPaper",
+      name: "EST Past Paper",
+      quizzes: estPastPaperQuize,
+    }
   ]
 };
