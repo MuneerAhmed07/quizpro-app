@@ -57,6 +57,7 @@ Percentage ID: 01,
 ********************
 FGEI:
 Computer MCQS ID: 03
+EST Past Paper ID: 02
 
 
 ****************
