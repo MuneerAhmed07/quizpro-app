@@ -12,6 +12,8 @@ MCQs : 02
 Past Paper Id: 07
 Computer Question ID: 04
 FIA Most Important MCQs ID: 03
+FIA UDC Past Paper ID: 04
+
 
 
 ******************
@@ -59,6 +61,8 @@ FGEI:
 Computer MCQS ID: 03
 EST Past Paper ID: 08
 LDC Past Paper ID: 02
+UDC Past Paper ID: 02
+Assistan Past Paper ID: 01
 
 
 ****************
