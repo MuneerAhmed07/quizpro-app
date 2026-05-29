@@ -1,7 +1,10 @@
+import { a } from "motion/react-client";
 import { Subject } from "../../../src/types";
 import { allComputerQuize } from "./computer";
 import { allLDCPastPaperQuize } from "./LDC";
 import { estPastPaperQuize } from "./SSTPastpaper";
+import { allUDCPastPaperQuize } from "./UDC";
+import { AssistantPastPaper } from "./Assistant/mcqs";
 
 export const fgei: Subject = {
   id: "fgei",
@@ -22,6 +25,16 @@ export const fgei: Subject = {
       id: "ldcpastpaper",
       name: "LDC Past Paper",
       quizzes: allLDCPastPaperQuize,
+    },
+    {
+      id: "udcpastpaper",
+      name: "UDC Past Paper",
+      quizzes: allUDCPastPaperQuize,
+    },
+    {
+      id: "assistantpastpaper",
+      name: "Assistant Past Paper",
+      quizzes: AssistantPastPaper,
     }
   ]
 };

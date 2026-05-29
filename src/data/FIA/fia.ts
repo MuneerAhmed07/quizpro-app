@@ -3,6 +3,7 @@ import { allComputerMcqsQuizes } from "./computerQuestion";
 import { allMcqsQuizes } from "./mostexpected";
 import { allMostImportantQuize } from "./mostImportant";
 import { allPastPaperQuizes } from "./pastpaper";
+import { FiaUDCPastPaperQuize } from "./UDC";
 
 
 export const fia: Subject = {
@@ -29,6 +30,11 @@ export const fia: Subject = {
       id: "mostimportant",
       name: "FIA Most Important And Repeated MCQs",
       quizzes: allMostImportantQuize,
+    },
+    {
+      id: "fiaudcpastpaper",
+      name: "UDC Past Paper",
+      quizzes: FiaUDCPastPaperQuize,
     }
   ]
 };
