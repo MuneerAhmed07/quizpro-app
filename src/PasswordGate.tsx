@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Lock, Eye, EyeOff, ShieldCheck } from 'lucide-react';
 
-const PASSWORD = "Zarkhy420@";
+const PASSWORD = "KhanNiazi07@";
 
 export default function PasswordGate({ children }: { children: React.ReactNode }) {
   const [authorized, setAuthorized] = useState(false);
